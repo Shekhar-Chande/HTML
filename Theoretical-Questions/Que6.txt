@@ -1,0 +1,9 @@
+Que:-  Explain the difference between <div> and <span> elements in HTML. When would you use each?
+
+Ans:- 
+
+HTML div tag
+The div tag is known as the Division tag. The HTML <div> tag is a block-level element used for grouping and structuring content. It provides a container to organize and style sections of a webpage, facilitating layout design and CSS styling.
+
+HTML span Tag
+The HTML span element is a generic inline container for inline elements and content. It used to group elements for styling purposes (by using the class or id attributes). A better way to use it when no other semantic element is available.

@@ -1,0 +1,9 @@
+Que:-  What is the purpose of the alt attribute in the <img> tag? Why is it important for accessibility and SEO?
+
+Ans:- An alt tag in HTML is an attribute that provides a text description of an image or video on a web page. The alt tag, or "alternate text", is used to describe an image when it can't be loaded or when a user is using a screen reader.
+
+Importance:- 
+
+Accessibility: Screen readers and text-based web browsers read the alt text instead of the image. 
+
+SEO: Search engines use the alt tag to identify the content that should be displayed, and to understand if an image is relevant to the keywords used on the page. 

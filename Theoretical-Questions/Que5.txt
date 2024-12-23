@@ -1,0 +1,9 @@
+Que:-  What is the Document Object Model (DOM), and how does it relate to HTML?
+
+Ans:-  DOM is a programming interface that represents the structure of a web page in a way that programming languages like JavaScript can understand and manipulate. Think of it as a tree of objects where each part of our HTML document (elements, attributes, text) is represented as a node, allowing us to dynamically change or interact with the content and structure of the page.
+
+DOM is essential because:-
+
+1. Dynamic content Updates
+2. User Interaction
+3. Cross-Platform Compatibility

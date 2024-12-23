@@ -1,0 +1,17 @@
+Que:- What is HTML? Explain its purpose in web development.
+
+Ans:- HTML stands for Hyper Text Markup Language. It is the language used to create the structure of a web page. we can create the structure of a web applications 
+
+using predefined HTML tags. Without HTML we cannot create any kind of web application. its is like the soul of the web application.
+
+Some HTML tags are:-
+
+div
+span
+p
+table
+header
+section
+footer 
+
+and many more.......

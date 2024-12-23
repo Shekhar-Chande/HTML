@@ -1,0 +1,8 @@
+Que:- What is the difference between block-level and inline elements in HTML? Provide examples.
+
+Ans:- There are two types of elements exists in HTML :- block level and inline.
+
+Block level:- These Html elemnts took the entire with of a web page, if we put a new element next to the block level element it will come from the next line.
+example:- div, p, header, table etc.
+
+Inline:- These Html elements took the with of its content size. example:- span, img, input etc.

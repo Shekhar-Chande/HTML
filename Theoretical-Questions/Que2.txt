@@ -1,0 +1,15 @@
+Que:-  What are semantic HTML elements? Provide examples of three semantic tags and explain their significance.
+
+Ans:- A semantic HTML elements clearly describes its meaning to both the browser and the developer.
+
+Benefits of using Semantics Elements:-
+
+1. SEO(Search Engine Optimization) is easy for a webpage. the Crawler of the Search engine identifies the content as important keywords.
+2. it hepls visually impaired users to navigate the page.
+
+Some semantic tags are:-
+
+1. <article> Tag :- The <article> tag is used for content that stands alone and can be independently distributed or reused, such as a blog post or news article.
+2. <header> Tag:- As the name suggests, it is for the header of a section introductory of a page. There can be multiple headers on a page.  
+3. <footer> Tag :- Footer located at the bottom of any article or document, they can contain contact details, copyright information etc. 
+4. <section> Tag:- A page can be split into sections like Introduction, Contact Information, Details, etc and each of these sections can be in a different section tag.
